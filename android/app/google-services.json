@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "680866929946",
+    "project_id": "flutter-praktikum-fc465",
+    "storage_bucket": "flutter-praktikum-fc465.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680866929946:android:896fce917dd1cd242aa0a3",
+        "android_client_info": {
+          "package_name": "com.example.pemmob_Fachry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680866929946-fq34urhfhl60a6s93jdaa2ter19lmpo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnNI9zRfx5mhZuo6gJh7Z63eYhcdnwQEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680866929946-fq34urhfhl60a6s93jdaa2ter19lmpo2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680866929946-ashot22md5kp51gh6drq514rpd4t6krn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.siapLapor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680866929946:android:a7ffa510cdb5bf282aa0a3",
+        "android_client_info": {
+          "package_name": "com.example.siap_lapor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680866929946-fq34urhfhl60a6s93jdaa2ter19lmpo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnNI9zRfx5mhZuo6gJh7Z63eYhcdnwQEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680866929946-fq34urhfhl60a6s93jdaa2ter19lmpo2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680866929946-ashot22md5kp51gh6drq514rpd4t6krn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.siapLapor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
